@@ -1,0 +1,24 @@
+header{
+    height: 60px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-img{
+    height: 22px;
+
+}
+.menu-list{
+    display: none;
+    
+}
